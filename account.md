@@ -3,7 +3,7 @@ layout: default
 title: Windows Accounts
 ---
 
-[Home](index.md) | [Accounts](account.md) | [Authentication](authentication.md)| [Hacking Tools](tools.md) | [Common Ports](ports.md)
+[Home](index.md) | [Accounts](account.md) | [Authentication](authentication.md)| [Hacking Tools](tools.md) | [Common Ports](ports.md) | [Windows Tool](windowstool.md) | [Powershell](powershell.md)
 
 ## Windows Accounts
 
