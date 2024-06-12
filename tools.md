@@ -3,7 +3,7 @@ layout: default
 title: Hacking Tools
 ---
 
-- [Home](index.md) | [Accounts](account.md) | [Hacking Tools](tools.md) | [Common Ports](ports.md)
+[Home](index.md) | [Accounts](account.md) | [Authentication](authentication.md)| [Hacking Tools](tools.md) | [Common Ports](ports.md)
 
 ## Tools used to pentest Windows machine
 
