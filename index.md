@@ -6,7 +6,7 @@ layout: default
 
 # All about Windows
 
-- [About](about.html) | [Blog](blog.html)
+- [About](about.md) | [Blog](blog.md)
 
 
 This is a compilation of all tips, guides, tools related to Windows OS.
