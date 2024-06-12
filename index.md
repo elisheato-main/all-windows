@@ -1,12 +1,11 @@
 ---
 title: "Home"
-permalink: /
 layout: default
 ---
 
 # All about Windows
 
-- [About](about.md) | [Blog](blog.md)
+- [Home](index.md) | [Accounts](account.md) | [Hacking Tools](tools.md) | [Common Ports](ports.md)
 
 
 This is a compilation of all tips, guides, tools related to Windows OS.
