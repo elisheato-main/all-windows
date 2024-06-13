@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /all-windows/windowstool
 title: Windows Tools and Service
 ---
 
