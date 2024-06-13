@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /all-windows/tools
 title: Hacking Tools
 ---
 
