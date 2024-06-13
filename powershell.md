@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /all-windows/powershell
 title: Powershell Commands
 ---
 
