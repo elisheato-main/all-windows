@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /all-windows/ports
 title: Common Ports
 ---
 
