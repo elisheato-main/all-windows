@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /all-windows/
+permalink: /all-windows/account
 title: Windows Accounts
 ---
 
