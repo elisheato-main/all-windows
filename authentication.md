@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /all-windows/authentication
 title: Authentication Methods
 ---
 
