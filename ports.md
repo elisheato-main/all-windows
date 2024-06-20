@@ -16,9 +16,10 @@ title: Common Ports
 | 23              | TCP          | Telnet                                                      |
 | 25              | TCP          | SMTP (Simple Mail Transfer Protocol)                        |
 | 53              | TCP/UDP      | DNS (Domain Name System)                                    |
-| 67              | UDP          | DHCP (Dynamic Host Configuration Protocol) Server          |
+| 67              | UDP          | DHCP (Dynamic Host Configuration Protocol) Server           |
 | 68              | UDP          | DHCP Client                                                 |
 | 80              | TCP          | HTTP (Hypertext Transfer Protocol)                          |
+| 88              | TCP          | Kerberos authentication traffic                             |
 | 110             | TCP          | POP3 (Post Office Protocol 3)                               |
 | 119             | TCP          | NNTP (Network News Transfer Protocol)                       |
 | 123             | UDP          | NTP (Network Time Protocol)                                 |
@@ -35,6 +36,7 @@ title: Common Ports
 | 465             | TCP          | SMTPS (SMTP Secure)                                         |
 | 514             | UDP          | Syslog                                                      |
 | 587             | TCP          | SMTP (with authentication)                                  |
+| 593             | TCP          | Windows RPC over HTTP 1.0                                   |
 | 636             | TCP/UDP      | LDAPS (LDAP over SSL)                                       |
 | 990             | TCP          | FTPS (FTP Secure)                                           |
 | 993             | TCP          | IMAPS (IMAP over SSL)                                       |
